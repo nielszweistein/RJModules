@@ -3,10 +3,10 @@
 	url = https://github.com/erikd/libsndfile.git 
 [submodule "dep/soundpipe"]
 	path = dep/soundpipe
-	url = https://github.com/PaulBatchelor/Soundpipe.git 
+	url = https://github.com/SeesePlusPlus/soundpipe.git 
 [submodule "libsndfile"]
 	path = dep/libsndfile
 	url = https://github.com/erikd/libsndfile
 [submodule "soundpipe"]
 	path = dep/soundpipe
-	url = https://github.com/PaulBatchelor/Soundpipe.git
+	url = https://github.com/SeesePlusPlus/soundpipe.git
